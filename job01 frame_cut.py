@@ -1,15 +1,21 @@
 import cv2
 import os
 
-videoPath = './VideoFile/'
-imagePath = './images/'
+videoPath = './datasets/video/'
+imagePath = 'C:\\Watching_You\\images\\'
+
 file_list = os.listdir(videoPath)
-#
+print(file_list)
 for file in file_list:
+    print(file)
     vidcap = cv2.VideoCapture(videoPath+file)
+    print(vidcap)
     file = file[:-4]
     success,image = vidcap.read()
     count = 0
+
+    print(success)
+    print(image)
     while success:
         cv2.imwrite(imagePath + file +"." +"%0d.jpg" % count, image)     # save frame as JPEG file
         success,image = vidcap.read()
