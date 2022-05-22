@@ -21,7 +21,9 @@ B. 데이터 전처리<br>
 데이터 전처리 과정은 크게 두가지로 구성되어 있음<br>
 
  B-1 동영상 프레임 단위로 컷 하기<br>
+https://github.com/LaKhepriAtum/Watching_You/tree/seungchae<br>
  B-2 yolo_mark를 이용하여 라벨링 작업<br>
+https://github.com/AlexeyAB/Yolo_mark<br>
 
 C. 모델링(학습)<br>
 YOLO5 모델 중 애플리케이션에 탑재에 가장 적합한 <br>
@@ -29,6 +31,7 @@ YOLO_5v를 활용하여 학습을 진행하게 됨 정확도를 올리기 위해
 batch_size 및 옵티마이저 ,image_size 등 여러가지<br>
 조건으로 학습시킨 결과 여러 가지 조건을<br>
 실험하고 결과를 만들게 됨<br>
+https://github.com/LaKhepriAtum/Watching_You/blob/suchan/yolo5v.ipynb<br>
 
 D. 테스트 <br>
 1차 테스트는 현장에서 찍은 영상(테스트셋과 불일치)으로<br>
