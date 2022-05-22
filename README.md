@@ -35,13 +35,15 @@ https://github.com/LaKhepriAtum/Watching_You/blob/suchan/yolo5v.ipynb<br>
 
 D. 테스트 <br>
 1차 테스트는 현장에서 찍은 영상(테스트셋과 불일치)으로<br>
+https://www.youtube.com/watch?v=EfYu60_XQDs
 Detect.py를 활용하여 테스트 하였고<br>
 2차 테스트는 국립중앙박물관 유튜브 채널에 올라와있는 
+https://www.youtube.com/watch?v=JAKt8DXtf2Y
 영상으로테스트 하였고
 3차 테스트는 애플리케이션에 탑재하여 직접 테스트 하였다
+https://www.youtube.com/shorts/5XdSjF3kRac
 
 3. 프로젝트 결과
-
 인공지능을 배우면 배울수록 데이터의 양과 질이 중요함을 매번 느낀다
 직접 현장에서 데이터 수집도 하고 테스트도 하고 라벨링 작업도 하고
 일련의 과정을 느낄수 있었던 프로젝트 이였다.
