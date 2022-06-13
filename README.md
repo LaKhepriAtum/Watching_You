@@ -31,8 +31,7 @@ YOLO_5v를 활용하여 학습을 진행하게 된 정확도를 올리기 위해
 batch_size 및 옵티마이저_size 등 여러 가지 <br>
 조건으로 학습시킨 결과 여러 가지 조건을  <br>
 실험하고 결과를 만들게 됨 <br>
-
-https://github.com/LaKhepriAtum/Watching_You/tree/suchan/YOLO5v.ipynb <br>
+https://github.com/LaKhepriAtum/Watching_You/blob/suchan/training_testing_yolov5.ipynb<br>
 
 D. 테스트  <br>
 1차 테스트는 현장에서 찍은 영상(평가세트와 불일치)으로 <br>
