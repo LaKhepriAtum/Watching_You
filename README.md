@@ -10,7 +10,7 @@
  
 ### 2. 프로젝트 과정 
 
-#### 데이터 수집 - 전처리 - 모델링 - 테스트 순으로 진행  
+#### 데이터 수집 - 전처리 - 학습 - 테스트 순으로 진행  
 
 ##### 데이터 수집 
 
@@ -27,9 +27,16 @@
 ##### ![image](https://user-images.githubusercontent.com/96555334/174024843-c0964308-1fdc-439c-8d83-82a089bc5e32.png)
 ##### job01 frame_cut.py  (seungchae-branch)
 
-https://github.com/LaKhepriAtum/Watching_You/tree/seungchae <br>
- B-2 YOLO_mark를 이용하여 라벨링 작업 <br>
-https://github.com/AlexeyAB/YOLO_mark <br>
+##### 이미지 라벨링(Yolo_mark)
+##### ![image](https://user-images.githubusercontent.com/96555334/174025322-12fdf7e6-dbde-4aae-9968-3f8927b1d2c4.png)
+
+##### 학습
+![image](https://user-images.githubusercontent.com/96555334/174025693-8a55e64b-2e38-4be1-b65c-0cd347534dcf.png)
+
+
+
+
+
 
 C. 모델링(학습) <br>
 YOLO 5 모델 중 애플리케이션에 탑재에 가장 적합한  <br>
