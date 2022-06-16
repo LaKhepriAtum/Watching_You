@@ -15,7 +15,7 @@
 #### 데이터 수집 - 전처리 - 학습 - 테스트 순으로 진행  
 
 
-#### 데이터 수집 
+### 데이터 수집 
 ###### 데이터 수집 과정 중 여러 가지 시도를 시도하였지만  
 ###### 최종적으로 동영상 촬영 후 프레임 단위로  
 ######  정제하여 MARK를 시도함 <br> 
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-#### 데이터 전처리 
+### 데이터 전처리 
 #####  동영상 > 이미지 분할  
 ##### ![image](https://user-images.githubusercontent.com/96555334/174024843-c0964308-1fdc-439c-8d83-82a089bc5e32.png)
 ##### job01 frame_cut.py  (seungchae-branch)
@@ -32,20 +32,20 @@
 <br>
 <br>
 
-#### 이미지 라벨링(Yolo_mark)
+### 이미지 라벨링(Yolo_mark)
 ##### ![image](https://user-images.githubusercontent.com/96555334/174025322-12fdf7e6-dbde-4aae-9968-3f8927b1d2c4.png)
 
 <br>
 <br>
 
-#### 학습
+### 학습
 #### ![image](https://user-images.githubusercontent.com/96555334/174025693-8a55e64b-2e38-4be1-b65c-0cd347534dcf.png)
 #### job01 yolo5v.ipynb  (suchan-branch)
 
 <br>
 <br>
 
-#### Test
+### Test
 #### ![image](https://user-images.githubusercontent.com/96555334/174026991-5595a0dd-8ab6-4651-8ff1-85c9f028fd35.png)
 #### ![image](https://user-images.githubusercontent.com/96555334/174027015-e871f84b-d7c1-4eb8-aee4-fa174f0862ce.png)
 
