@@ -18,7 +18,7 @@
 ###### 데이터 수집 과정 중 여러 가지 시도를 시도하였지만  <br>
 ###### 최종적으로 동영상 촬영 후 프레임 단위로  <br>
 ######  정제하여 MARK를 시도함 <br> 
-![image](https://user-images.githubusercontent.com/96555334/174024303-50217827-4235-4e31-8bc8-70bb5080734a.png)
+###### ![image](https://user-images.githubusercontent.com/96555334/174024303-50217827-4235-4e31-8bc8-70bb5080734a.png)
 
 <br>
 <br>
@@ -26,7 +26,7 @@
 #### 데이터 전처리 
 #####  동영상 > 이미지 분할  
 ##### ![image](https://user-images.githubusercontent.com/96555334/174024843-c0964308-1fdc-439c-8d83-82a089bc5e32.png)
-#### job01 frame_cut.py  (seungchae-branch)
+##### job01 frame_cut.py  (seungchae-branch)
 
 <br>
 <br>
@@ -35,7 +35,7 @@
 <br>
 <br>
 #### 학습
-![image](https://user-images.githubusercontent.com/96555334/174025693-8a55e64b-2e38-4be1-b65c-0cd347534dcf.png)
+#### ![image](https://user-images.githubusercontent.com/96555334/174025693-8a55e64b-2e38-4be1-b65c-0cd347534dcf.png)
 #### job01 yolo5v.ipynb  (suchan-branch)
 
 
