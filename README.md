@@ -21,10 +21,12 @@
 
 
 
-B. 데이터 전처리 <br>
-데이터 전처리 과정은 크게 두 가지로 구성되어 있음 <br>
+##### 데이터 전처리 <br>
+#####  동영상 > 이미지 분할  <br>
 
- B-1 동영상 프레임 단위로 컷하기 <br>
+##### ![image](https://user-images.githubusercontent.com/96555334/174024843-c0964308-1fdc-439c-8d83-82a089bc5e32.png)
+##### job01 frame_cut.py  (seungchae-branch)
+
 https://github.com/LaKhepriAtum/Watching_You/tree/seungchae <br>
  B-2 YOLO_mark를 이용하여 라벨링 작업 <br>
 https://github.com/AlexeyAB/YOLO_mark <br>
