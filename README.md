@@ -42,12 +42,19 @@
 #### ![image](https://user-images.githubusercontent.com/96555334/174025693-8a55e64b-2e38-4be1-b65c-0cd347534dcf.png)
 #### job01 yolo5v.ipynb  (suchan-branch)
 
+<br>
+<br>
+
+#### Test
+#### ![image](https://user-images.githubusercontent.com/96555334/174026991-5595a0dd-8ab6-4651-8ff1-85c9f028fd35.png)
+#### ![image](https://user-images.githubusercontent.com/96555334/174027015-e871f84b-d7c1-4eb8-aee4-fa174f0862ce.png)
 
 
 
 
 
-C. 모델링(학습) <br>
+
+<!-- C. 모델링(학습) <br>
 YOLO 5 모델 중 애플리케이션에 탑재에 가장 적합한  <br>
 YOLO_5v를 활용하여 학습을 진행하게 된 정확도를 올리기 위해 <br>
 batch_size 및 옵티마이저_size 등 여러 가지 <br>
@@ -69,3 +76,4 @@ https://www.youtube.com/shorts/5XdSjF3kRac<br>
 인공지능을 배우면 배울수록 데이터의 양과 질이 중요함을 매번 느낀다 <br>
 직접 현장에서 데이터 수집도 하고 테스트도 하고 라벨링 작업도 하고<br>
 일련의 과정을 느낄 수 있었던 프로젝트 이였다. <br>
+ -->
