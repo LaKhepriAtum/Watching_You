@@ -25,13 +25,14 @@
 #####  동영상 > 이미지 분할  <br>
 
 ##### ![image](https://user-images.githubusercontent.com/96555334/174024843-c0964308-1fdc-439c-8d83-82a089bc5e32.png)
-##### job01 frame_cut.py  (seungchae-branch)
+#### job01 frame_cut.py  (seungchae-branch)
 
 ##### 이미지 라벨링(Yolo_mark)
 ##### ![image](https://user-images.githubusercontent.com/96555334/174025322-12fdf7e6-dbde-4aae-9968-3f8927b1d2c4.png)
 
 ##### 학습
 ![image](https://user-images.githubusercontent.com/96555334/174025693-8a55e64b-2e38-4be1-b65c-0cd347534dcf.png)
+#### job01 yolo5v.ipynb  (suchan-branch)
 
 
 
